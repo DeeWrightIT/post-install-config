@@ -77,9 +77,12 @@ Next, I configured SLA Plans by going to Admin Panel, Manage, SLA. I created thr
 </p>
 <br />
 
-<img width="873" height="485" alt="Screenshot 2025-11-25 131424" src="https://github.com/user-attachments/assets/ee85faa1-eda2-48c9-85e2-d5ba56261553" />
+<img width="892" height="477" alt="Screenshot 2025-11-25 131257" src="https://github.com/user-attachments/assets/806f6502-3da2-4554-a197-4ec9fb6c0ec7" />
+
 
 <p>
 Last, I configured help topics and assigned then to certain severites based on the topic.
 </p>
+
+<img width="873" height="485" alt="Screenshot 2025-11-25 131424" src="https://github.com/user-attachments/assets/ee85faa1-eda2-48c9-85e2-d5ba56261553"
 <br />
