@@ -70,17 +70,15 @@ I also created two new users, Karen and Ken, to create new tickets. To create ne
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/8wkzcJQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="884" height="455" alt="Screenshot 2025-11-25 131008" src="https://github.com/user-attachments/assets/bce8132c-c68c-408f-89ed-dbe5bd577781" />
+
 <p>
 Next, I configured SLA Plans by going to Admin Panel, Manage, SLA. I created three plans and assigned when these should be serviced, Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours)
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/ARwdbdA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="873" height="485" alt="Screenshot 2025-11-25 131424" src="https://github.com/user-attachments/assets/ee85faa1-eda2-48c9-85e2-d5ba56261553" />
+
 <p>
 Last, I configured help topics and assigned then to certain severites based on the topic.
 </p>
