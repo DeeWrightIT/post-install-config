@@ -26,9 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/xHP4qyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="899" height="502" alt="Screenshot 2025-11-25 125852" src="https://github.com/user-attachments/assets/b32e6f44-9d3a-4886-ae4a-ef695027a9e2" />
+
 <p>
 First, I configured the role of an administrator "supreme admin".
 I went to the Admin Panel, then Agents, Roles, and assigned roles to the admin.
@@ -36,41 +35,36 @@ I went to the Admin Panel, then Agents, Roles, and assigned roles to the admin.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/71mPva0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="921" height="488" alt="Screenshot 2025-11-25 130055" src="https://github.com/user-attachments/assets/4e869e88-69c8-40d8-bf8c-a1c5bf04410d" />
+
 <p>
 Next, I configured the "system administrators" department by going to the Admin Panel, Agents, Departments, 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/M9a4F1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="857" height="508" alt="Screenshot 2025-11-25 130226" src="https://github.com/user-attachments/assets/b6c1dcb5-3973-40e2-8a4d-eb2622436678" />
+
 <p>
 Then, I made two teams. One for level I support and the other level II support. To do this, I went to the Admin Panel, Agents, and Teams
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/vpDotW7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="857" height="508" alt="Screenshot 2025-11-25 130226" src="https://github.com/user-attachments/assets/4a2d1552-b9b4-4cd8-86f2-ec845f2f362b" />
+
 <p>
 Next, I allowed anyone to create tickets as long as they were registered users. I did this by going to Admin Panel, Settings, User Settings. There's a box to check that would require user registration to create a ticket. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/pxXG3jB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="894" height="471" alt="Screenshot 2025-11-25 130458" src="https://github.com/user-attachments/assets/3cdf529b-e884-4731-a8aa-9c54592c5c16" />
+
 <p>
 Afterwards, I created two new agents by going to Admin Panel, Agents, and Add New. I made two new users, John Doe and Jane Doe.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/QZyi38G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="905" height="472" alt="Screenshot 2025-11-25 130909" src="https://github.com/user-attachments/assets/937916e7-be5c-4108-8394-ec3a7288f933" />
+
 <p>
 I also created two new users, Karen and Ken, to create new tickets. To create new users I went to the Agent Panel, Users, and Add New
 </p>
